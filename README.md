@@ -10,7 +10,7 @@ The database is an SQLite file: `travel.sqlite`. It contains information about:
 - Airports and aircrafts
 - Tickets, bookings, and boarding passes
 - Passengers and seat details
-
+- Link: https://www.kaggle.com/datasets/saadharoon27/airlines-dataset
 ## 📊 Key Insights Extracted
 
 - Top 10 busiest flight routes
